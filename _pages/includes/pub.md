@@ -1,5 +1,5 @@
 # 📝 Publications 
-**Peng Fang**, Zhenli Li, Arijit Khan, Siqiang Luo, Fang Wang, Dan Feng, Information-Oriented Random Walks and Pipeline Optimization for Distributed Graph Embedding, ***IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)***, 2024
+**Peng Fang**, Zhenli Li, Arijit Khan, Siqiang Luo, Fang Wang, Dan Feng, Information-Oriented Random Walks and Pipeline Optimization for Distributed Graph Embedding, ***IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)***, 2025, 37(1): 408-422.
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10587087"><img src="../../images/pdf.png" alt="Article Link" width="23"></a>
 <a href="https://github.com/RocmFang/DistGER-Pipe"><img src="../../images/github-64.png" alt="Code Repository" width="23"></a>
 
@@ -13,7 +13,7 @@ Xianghao Xu, Fang Wang, Hong Jiang, Yongli Cheng, Dan Feng, **Peng Fang**. A Dis
 <a href="https://vldb.org/pvldb/vol16/p1643-fang.pdf"><img src="../../images/pdf.png" alt="Article Link" width="23"></a>
 <a href="https://github.com/RocmFang/DistGER"><img src="../../images/github-64.png" alt="Code Repository" width="23"></a>
 
-**Peng Fang**, Fang Wang, Zhan Shi, Hong Jiang, Dan Feng, Xianghao Xu, Wei Yin. How to Realize Efficient and Scalable Graph Embeddings via an Entropy-driven Mechanism. ***IEEE Transactions on Big Data (IEEE TBD)***, 2023
+**Peng Fang**, Fang Wang, Zhan Shi, Hong Jiang, Dan Feng, Xianghao Xu, Wei Yin. How to Realize Efficient and Scalable Graph Embeddings via an Entropy-driven Mechanism. ***IEEE Transactions on Big Data (IEEE TBD)***, 2023, 9(1): 358-371.
 <a href="https://ieeexplore.ieee.org/document/9749008"><img src="../../images/pdf.png" alt="Article Link" width="23"></a>
 
 Yutong Wu, Zhan Shi, Shicai Huang, Zhipeng Tian, Pengwei Zuo, **Peng Fang**, Fang Wang, Dan Feng. SOWalker: An I/O-Optimized Out-of-Core Graph Processing System for Second-Order Random Walks. In: Proceedings of the 2023 USENIX Annual Technical Conference, ***USENIX ATC 2023***
