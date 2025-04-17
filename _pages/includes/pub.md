@@ -1,5 +1,7 @@
 # 📝 Publications 
-**Peng Fang**, Zhenli Li, Arijit Khan, Siqiang Luo, Fang Wang, Dan Feng, Information-Oriented Random Walks and Pipeline Optimization for Distributed Graph Embedding, ***IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)***, 2025, 37(1): 408-422.
+**Peng Fang**, Siqiang Luo, Fang Wang, Bolong Zheng, Hong Jiang, Dan Feng, Hechang Pan, Xingyu Wan. OMeGa: Boosting Large-scale Graph Embeddings with Heterogeneous Memory Processing. In: Proceedings of the 41th IEEE International Conference on Data Engineering, ***ICDE 2025***
+
+**Peng Fang**, Zhenli Li, Arijit Khan, Siqiang Luo, Fang Wang, Dan Feng. Information-Oriented Random Walks and Pipeline Optimization for Distributed Graph Embedding, ***IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)***, 2025, 37(1): 408-422.
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10587087"><img src="../../images/pdf.png" alt="Article Link" width="23"></a>
 <a href="https://github.com/RocmFang/DistGER-Pipe"><img src="../../images/github-64.png" alt="Code Repository" width="23"></a>
 
