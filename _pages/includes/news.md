@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.05*: ✋ I am honored to serve as a Program Committee member for **ICDE 2026**!
 - *2025.03*: 🎉 Our paper on bosting large-scale graph embeddings with heterogeneous memory processing has been accepted by **ICDE 2025**! Congrats to co-authors!
 - *2025.03*: ✋ I am honored to serve as a Program Committee member for **LLM+Graph workshop, co-located with the VLDB 2025**!
 - *2024.12*: 🎯 I have been supported by the **Hubei Province Postdoctoral Innovation Talent Project**!
