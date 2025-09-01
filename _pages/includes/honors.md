@@ -1,4 +1,4 @@
-# Honors and Awards
+# 🎖️ Honors and Awards
 - *2024*: Doctoral Dissertation Award Nominee in CCF Information Storage Technology
 - *2024*: BESC 10th Anniversary Research Contribution Award
 - *2022*: China Optics Valley Rising Star Scholarship
