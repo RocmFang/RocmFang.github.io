@@ -1,5 +1,6 @@
 # 🔥 News
 <!--
+- *2025.08*: 🎖️  Our paper on "***Graph×AI: An Information-driven High Performance AI System with Heterogeneous Resources***" has been awarded the **Best Poster Award** in CCF China Storage Conference 2025!
 - *2025.08*: 🎉 Our paper on the integrating CoT and RAG to enhance LLMs reasoning has been accepted by **EMNLP 2025**! Congrats to Feiyang!
 - *2025.08*: ✋ I am honored to serve as a Program Committee member for **ADC 2025**!
 - *2025.06*: 🎉 Our paper on the space-time tradeoffs in key-value separated LSM-trees has been accepted by **IEEE TC**! Congrats to Jianshun!
