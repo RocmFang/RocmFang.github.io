@@ -1,11 +1,23 @@
 # 📝 Publications 
+
 **Peng Fang**, Siqiang Luo, Fang Wang, Bolong Zheng, Hong Jiang, Dan Feng, Hechang Pan, Xingyu Wan. OMeGa: Boosting Large-scale Graph Embeddings with Heterogeneous Memory Processing. In: Proceedings of the 41th IEEE International Conference on Data Engineering, ***ICDE 2025***
+<a href="https://www.computer.org/csdl/proceedings-article/icde/2025/360300d369/26FZBGIv6j6"><img src="../../images/pdf.png" alt="Article Link" width="23"></a>
+<a href="https://github.com/RocmFang/OMeGa"><img src="../../images/github-64.png" alt="Code Repository" width="23"></a>
 
 **Peng Fang**, Zhenli Li, Arijit Khan, Siqiang Luo, Fang Wang, Dan Feng. Information-Oriented Random Walks and Pipeline Optimization for Distributed Graph Embedding, ***IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)***, 2025, 37(1): 408-422.
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10587087"><img src="../../images/pdf.png" alt="Article Link" width="23"></a>
 <a href="https://github.com/RocmFang/DistGER-Pipe"><img src="../../images/github-64.png" alt="Code Repository" width="23"></a>
+<!--
+Jianshun Zhang, Fang Wang, Jiaxin Ou, Yi Wang, Ming Zhao, Sheng Qiu, Junxun Huang, Baoquan Li, **Peng Fang***, Dan Feng. Scavenger+: Revisiting Space-Time Tradeoffs in Key-Value Separated LSM-trees. ***IEEE Transactions on Computers (IEEE TC)***, 2025 (***Corresponding Author**)
+<a href="https://ieeexplore.ieee.org/abstract/document/11077722"><img src="../../images/pdf.png" alt="Article Link" width="23"></a>  
 
-Jianshun Zhang, Fang Wang, Sheng Qiu, Yi Wang, Jiaxin Ou, Junxun Huang, Baoquan Li, **Peng Fang**, Dan Feng. Scavenger: Better Space-Time Trade-Offs for Key-Value Separated LSM-trees. In: Proceedings of the 40th IEEE International Conference on Data Engineering, ***ICDE 2024*** (***Corresponding Author**)
+Zesong Wang, **Peng Fang***, Fang Wang, Hong Jiang, Yiming Lu, Zhan Shi, Dan Feng. SpiderCache: Semantic-Aware Caching Strategy for DNN Training. ***ICPP 2025*** (***Corresponding Author**)
+
+Feiyang Li, **Peng Fang***, Zhan Shi, Arijit Khan et al. CoT-RAG: Integrating Chain of Thought and Retrieval-Augmented Generation to Enhance Reasoning in Large Language Models. ***EMNLP 2025*** (***Corresponding Author**)
+
+Yutong Wu, Feuyang Li, Zhan Shi, Zhipeng Tian, Wang Zhang, **Peng Fang**, Renzhi Xiao, Fang Wang, Dan Feng. A survey of social network alignment methods based on graph representation learning. ***Frontiers of Computer Science (FCS)***, 2025 
+-->
+Jianshun Zhang, Fang Wang, Sheng Qiu, Yi Wang, Jiaxin Ou, Junxun Huang, Baoquan Li, **Peng Fang***, Dan Feng. Scavenger: Better Space-Time Trade-Offs for Key-Value Separated LSM-trees. In: Proceedings of the 40th IEEE International Conference on Data Engineering, ***ICDE 2024*** (***Corresponding Author**)
 <a href="https://ieeexplore.ieee.org/abstract/document/10598128"><img src="../../images/pdf.png" alt="Article Link" width="23"></a>                              
 
 Xianghao Xu, Fang Wang, Hong Jiang, Yongli Cheng, Dan Feng, **Peng Fang**. A Disk I/O Optimized System for Concurrent Graph Processing Jobs. ***Frontiers of Computer Science (FCS)***, 2024 
