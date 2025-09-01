@@ -19,7 +19,7 @@ Feiyang Li, **Peng Fang<sup>*</sup>**, Zhan Shi, Arijit Khan et al. CoT-RAG: Int
 Yutong Wu, Feuyang Li, Zhan Shi, Zhipeng Tian, Wang Zhang, **Peng Fang**, Renzhi Xiao, Fang Wang, Dan Feng. A survey of social network alignment methods based on graph representation learning. ***Frontiers of Computer Science (FCS)***, 2025 
 -->
 
-Jianshun Zhang, Fang Wang, Sheng Qiu, Yi Wang, Jiaxin Ou, Junxun Huang, Baoquan Li, **Peng Fang**\*, Dan Feng. Scavenger: Better Space-Time Trade-Offs for Key-Value Separated LSM-trees. In: Proceedings of the 40th IEEE International Conference on Data Engineering, ***ICDE 2024*** (**Corresponding Author**)
+Jianshun Zhang, Fang Wang, Sheng Qiu, Yi Wang, Jiaxin Ou, Junxun Huang, Baoquan Li, **Peng Fang**\*, Dan Feng. Scavenger: Better Space-Time Trade-Offs for Key-Value Separated LSM-trees. In: Proceedings of the 40th IEEE International Conference on Data Engineering, ***ICDE 2024*** (***Corresponding Author**)
 <a href="https://ieeexplore.ieee.org/abstract/document/10598128"><img src="../../images/pdf.png" alt="Article Link" width="23"></a>                              
 
 Xianghao Xu, Fang Wang, Hong Jiang, Yongli Cheng, Dan Feng, **Peng Fang**. A Disk I/O Optimized System for Concurrent Graph Processing Jobs. ***Frontiers of Computer Science (FCS)***, 2024 
