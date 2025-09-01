@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
+<span class='anchor' id='-honors-and-awards'></span>
 {% include_relative includes/intro.md %}
 
 {% include_relative includes/news.md %}
