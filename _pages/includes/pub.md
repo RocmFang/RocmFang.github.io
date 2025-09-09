@@ -13,7 +13,8 @@ Jianshun Zhang, Fang Wang, Jiaxin Ou, Yi Wang, Ming Zhao, Sheng Qiu, Junxun Huan
 
 Zesong Wang, **Peng Fang**\*, Fang Wang, Hong Jiang, Yiming Lu, Zhan Shi, Dan Feng. SpiderCache: Semantic-Aware Caching Strategy for DNN Training. ***ICPP 2025*** (***Corresponding Author**)
 
-Feiyang Li, **Peng Fang**\*, Zhan Shi, Arijit Khan, Fang Wang, Weihao Wang, Xin Zhang, Yongjian Cui. CoT-RAG: Integrating Chain of Thought and Retrieval-Augmented Generation to Enhance Reasoning in Large Language Models. ***EMNLP 2025*** (***Corresponding Author**)
+Feiyang Li, **Peng Fang**\*, Zhan Shi, Arijit Khan, Fang Wang, Weihao Wang, Xin Zhang, Yongjian Cui. CoT-RAG: Integrating Chain of Thought and Retrieval-Augmented Generation to Enhance Reasoning in Large Language Models. ***EMNLP Findings 2025*** (***Corresponding Author**) <a href="https://arxiv.org/abs/2504.13534"><img src="../../images/pdf.png" alt="Article Link" width="23"></a>
+<a href="https://github.com/hustlfy123/CoT-RAG"><img src="../../images/github-64.png" alt="Code Repository" width="23"></a>
 
 Yutong Wu, Feuyang Li, Zhan Shi, Zhipeng Tian, Wang Zhang, **Peng Fang**, Renzhi Xiao, Fang Wang, Dan Feng. A survey of social network alignment methods based on graph representation learning. ***Frontiers of Computer Science (FCS)***, 2025 
 
