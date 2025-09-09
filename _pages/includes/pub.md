@@ -8,7 +8,6 @@
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10587087"><img src="../../images/pdf.png" alt="Article Link" width="23"></a>
 <a href="https://github.com/RocmFang/DistGER-Pipe"><img src="../../images/github-64.png" alt="Code Repository" width="23"></a>
 
-<!--
 Jianshun Zhang, Fang Wang, Jiaxin Ou, Yi Wang, Ming Zhao, Sheng Qiu, Junxun Huang, Baoquan Li, **Peng Fang**\*, Dan Feng. Scavenger+: Revisiting Space-Time Tradeoffs in Key-Value Separated LSM-trees. ***IEEE Transactions on Computers (IEEE TC)***, 2025 (***Corresponding Author**)
 <a href="https://ieeexplore.ieee.org/abstract/document/11077722"><img src="../../images/pdf.png" alt="Article Link" width="23"></a>  
 
@@ -17,7 +16,6 @@ Zesong Wang, **Peng Fang**\*, Fang Wang, Hong Jiang, Yiming Lu, Zhan Shi, Dan Fe
 Feiyang Li, **Peng Fang**\*, Zhan Shi, Arijit Khan, Fang Wang, Weihao Wang, Xin Zhang, Yongjian Cui. CoT-RAG: Integrating Chain of Thought and Retrieval-Augmented Generation to Enhance Reasoning in Large Language Models. ***EMNLP 2025*** (***Corresponding Author**)
 
 Yutong Wu, Feuyang Li, Zhan Shi, Zhipeng Tian, Wang Zhang, **Peng Fang**, Renzhi Xiao, Fang Wang, Dan Feng. A survey of social network alignment methods based on graph representation learning. ***Frontiers of Computer Science (FCS)***, 2025 
--->
 
 Jianshun Zhang, Fang Wang, Sheng Qiu, Yi Wang, Jiaxin Ou, Junxun Huang, Baoquan Li, **Peng Fang**\*, Dan Feng. Scavenger: Better Space-Time Trade-Offs for Key-Value Separated LSM-trees. In: Proceedings of the 40th IEEE International Conference on Data Engineering, ***ICDE 2024*** (***Corresponding Author**)
 <a href="https://ieeexplore.ieee.org/abstract/document/10598128"><img src="../../images/pdf.png" alt="Article Link" width="23"></a>                              
