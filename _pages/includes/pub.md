@@ -1,4 +1,4 @@
-# 📝 Publications <small>* 为通信作者</small>
+# 📝 Publications
 
 **Peng Fang**, Siqiang Luo, Fang Wang, Bolong Zheng, Hong Jiang, Dan Feng, Hechang Pan, Xingyu Wan. OMeGa: Boosting Large-scale Graph Embeddings with Heterogeneous Memory Processing. In: Proceedings of the 41th IEEE International Conference on Data Engineering, ***ICDE 2025***
 <a href="https://www.computer.org/csdl/proceedings-article/icde/2025/360300d369/26FZBGIv6j6"><img src="../../images/pdf.png" alt="Article Link" width="23"></a>
