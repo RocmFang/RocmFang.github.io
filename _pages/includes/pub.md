@@ -8,7 +8,7 @@
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10587087"><img src="../../images/pdf.png" alt="Article Link" width="23"></a>
 <a href="https://github.com/RocmFang/DistGER-Pipe"><img src="../../images/github-64.png" alt="Code Repository" width="23"></a>
 
-Jianshun Zhang, Fang Wang, Jiaxin Ou, Yi Wang, Ming Zhao, Sheng Qiu, Junxun Huang, Baoquan Li, **Peng Fang**\*, Dan Feng. Scavenger+: Revisiting Space-Time Tradeoffs in Key-Value Separated LSM-trees. ***IEEE Transactions on Computers (IEEE TC)***, 2025 
+Jianshun Zhang, Fang Wang, Jiaxin Ou, Yi Wang, Ming Zhao, Sheng Qiu, Junxun Huang, Baoquan Li, **Peng Fang**\*, Dan Feng. Scavenger+: Revisiting Space-Time Tradeoffs in Key-Value Separated LSM-trees. ***IEEE Transactions on Computers (IEEE TC)***, 2025, 74(10): 3332-3346.
 <a href="https://ieeexplore.ieee.org/abstract/document/11077722"><img src="../../images/pdf.png" alt="Article Link" width="23"></a>  
 
 Zesong Wang, **Peng Fang**\*, Fang Wang, Hong Jiang, Yiming Lu, Zhan Shi, Dan Feng. SpiderCache: Semantic-Aware Caching Strategy for DNN Training. ***ICPP 2025*** 
