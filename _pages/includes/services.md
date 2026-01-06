@@ -8,6 +8,8 @@
 
 - International Conference on Very Large Data Bases (PVLDB PC member for 2025 LLM+Graph Workshop, 2024 LLM+KG Workshop, 2022 External Expert)
 
+- International Conference on Database Systems for Advanced Applications (DASFAA Demo Track PC member for 2026)
+
 - Conference of ACM Special Interest Group on Management of Data (SIGMOD PC member for 2026 External Expert)
 
 - International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation. (SBP-BRiMS PC member for 2020, 2022, 2023, 2024)
@@ -15,6 +17,8 @@
 ## Journal Services
 - IEEE Transactions on Knowledge and Data Engineering (TKDE)
 - International Journal on Very Large Databases (VLDBJ)
+- ACM Transactions on Storage (TOS)
+- Pattern Recognition
 - The Journal of Supercomputing
 
 

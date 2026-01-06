@@ -1,4 +1,5 @@
 # 📝 Publications
+Jianshun Zhang, Xun Deng, Fang Wang, Jiaxin Ou, Yi Wang, Hao Wang, Jianjun Chen, **Peng Fang**\*, Dan Feng Terark-DS: A High-Performance and Storage-Efficient Key-Value Separation Storage Engine on Disaggregated Storage. In: Proceedings of the 52th International Conference on Very Large Data Bases, VLDB 2026 (Accepted)
 
 **Peng Fang**, Siqiang Luo, Fang Wang, Bolong Zheng, Hong Jiang, Dan Feng, Hechang Pan, Xingyu Wan. OMeGa: Boosting Large-scale Graph Embeddings with Heterogeneous Memory Processing. In: Proceedings of the 41th IEEE International Conference on Data Engineering, ***ICDE 2025***
 <a href="https://www.computer.org/csdl/proceedings-article/icde/2025/360300d369/26FZBGIv6j6"><img src="../../images/pdf.png" alt="Article Link" width="23"></a>
