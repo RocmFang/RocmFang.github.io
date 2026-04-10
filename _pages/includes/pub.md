@@ -61,7 +61,7 @@ Yongxuan Zhang, Fang Wang, Feng Dan, Xianghao Xu, **Peng Fang**. HOSA: Fast Dist
 Jianbo Gao, **Peng Fang**, Lihua Yuan. Analyses of geographical observations in the Heihe River Basin: Perspectives from complexity theory. ***Journal of Geographical Sciences***, 2019, 29(9):1441-1461.
 <a href="https://gda.bnu.edu.cn/docs/20200116103929340986.pdf"><img src="../../images/pdf.png" alt="Article Link" width="23"></a>
 
-**Peng Fang**, Menglan Ma, Jianbo Gao, Dynamic Evolution of Multinational Relation’s Network in the South China Sea Arbitration Based on Massive Media Data Analysis. ***PCMM 2018***.
+**Peng Fang**, Menglan Ma, Jianbo Gao. Dynamic Evolution of Multinational Relation’s Network in the South China Sea Arbitration Based on Massive Media Data Analysis. ***PCMM 2018***.
 <a href="https://dpi-journals.com/index.php/dtcse/article/view/23735"><img src="../../images/pdf.png" alt="Article Link" width="23"></a>
 
 Jianbo Gao, **Peng Fang**, Feiyan Liu. Empirical scaling law connecting persistence and severity of global terrorism. ***Physica A Statistical Mechanics & Its Applications***, 2017, 482.
