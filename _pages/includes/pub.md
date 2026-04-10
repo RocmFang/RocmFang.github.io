@@ -17,6 +17,7 @@ Jianshun Zhang, Fang Wang, Jiaxin Ou, Yi Wang, Ming Zhao, Sheng Qiu, Junxun Huan
 <a href="https://ieeexplore.ieee.org/abstract/document/11077722"><img src="../../images/pdf.png" alt="Article Link" width="23"></a>  
 
 Zesong Wang, **Peng Fang**\*, Fang Wang, Hong Jiang, Yiming Lu, Zhan Shi, Dan Feng. SpiderCache: Semantic-Aware Caching Strategy for DNN Training. ***ICPP 2025***.
+<a href="https://dl.acm.org/doi/pdf/10.1145/3754598.3754672"><img src="../../images/pdf.png" alt="Article Link" width="23"></a> 
 
 Feiyang Li, **Peng Fang**\*, Zhan Shi, Arijit Khan, Fang Wang, Weihao Wang, Xin Zhang, Yongjian Cui. CoT-RAG: Integrating Chain of Thought and Retrieval-Augmented Generation to Enhance Reasoning in Large Language Models. ***EMNLP Findings 2025***.  <a href="https://arxiv.org/abs/2504.13534"><img src="../../images/pdf.png" alt="Article Link" width="23"></a>
 <a href="https://github.com/hustlfy123/CoT-RAG"><img src="../../images/github-64.png" alt="Code Repository" width="23"></a>
