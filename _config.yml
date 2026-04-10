@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Peng Fang (方鹏)"
-description              : "Postdoc Research Fellow in HUST and NUS. Focusing on System4AI, Graph Learning and Big data."
+description              : "Postdoc Research Fellow in HUST and NUS. Focusing on System4AI."
 repository               : "rocmfang/rocmfang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -57,7 +57,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
 
 # Reading Files
 include:
