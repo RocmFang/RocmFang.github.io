@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.02*: 🎉 Our paper about a unified storage engine for training-serving data management in LRM has been accepted by **SIGMOD 2026**! Congrats to Kelei and Mingming!
 - *2025.12*: ✋ I am honored to serve as a Program Committee member for **Demo track of DASFAA 2026**!
 - *2025.11*: 🎉 Our paper about high-performance and storage-efficient Key-Value separation storage engine on disaggregated storage has been accepted by **VLDB 2026**! Congrats to Jianshun and Xun!
 - *2025.10*: 🎖️  Our project "AI Compute-In-Memory Integrated Basic Software and Hardware System" won the **Silver Award** in the 3rd China Postdoctoral Innovation & Entrepreneurship Competition!
