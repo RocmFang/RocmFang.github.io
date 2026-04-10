@@ -1,8 +1,8 @@
 # 📝 Publications
 
-**Peng Fang**\*, **Kelei Guo**\*, Cheng Chen, Wei Zhang, Mingming Chen, Huaye Xu, Borong Meng, Zongjia Chen, Mingshuai Wang, Luping Wang, Yuan Zhang, Shiru Ren, Fang Wang, Dan Feng. TokaDB: A Unified Storage Engine for Training-Serving Data Management in Large Recommendation Models, In: Proceedings of the 2026 ACM Conference on Management of Data,  ***SIGMOD 2026*** (Accepted).
+**Peng Fang**, Kelei Guo, Cheng Chen, Wei Zhang, Mingming Chen, Huaye Xu, Borong Meng, Zongjia Chen, Mingshuai Wang, Luping Wang, Yuan Zhang, Shiru Ren, Fang Wang, Dan Feng. TokaDB: A Unified Storage Engine for Training-Serving Data Management in Large Recommendation Models, In: Proceedings of the 2026 ACM Conference on Management of Data,  ***SIGMOD 2026*** (Accepted).
 
-Jianshun Zhang, Xun Deng, Fang Wang, Jiaxin Ou, Yi Wang, Hao Wang, Jianjun Chen, **Peng Fang**\*, Dan Feng. Terark-DS: A High-Performance and Storage-Efficient Key-Value Separation Storage Engine on Disaggregated Storage. In: Proceedings of the 52th International Conference on Very Large Data Bases, ***VLDB 2026***. https://www.vldb.org/pvldb/vol19/p822-zhang.pdf
+Jianshun Zhang, Xun Deng, Fang Wang, Jiaxin Ou, Yi Wang, Hao Wang, Jianjun Chen, **Peng Fang**\*, Dan Feng. Terark-DS: A High-Performance and Storage-Efficient Key-Value Separation Storage Engine on Disaggregated Storage. In: Proceedings of the 52th International Conference on Very Large Data Bases, ***VLDB 2026***.
 <a href="https://www.vldb.org/pvldb/vol19/p822-zhang.pdf"><img src="../../images/pdf.png" alt="Article Link" width="23"></a>
 
 **Peng Fang**, Siqiang Luo, Fang Wang, Bolong Zheng, Hong Jiang, Dan Feng, Hechang Pan, Xingyu Wan. OMeGa: Boosting Large-scale Graph Embeddings with Heterogeneous Memory Processing. In: Proceedings of the 41th IEEE International Conference on Data Engineering, ***ICDE 2025***.
