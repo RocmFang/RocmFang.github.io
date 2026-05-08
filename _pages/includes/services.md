@@ -16,6 +16,7 @@
 
 ## Journal Services
 - IEEE Transactions on Knowledge and Data Engineering (TKDE)
+- IEEE Transactions on Computers (TC)
 - International Journal on Very Large Databases (VLDBJ)
 - ACM Transactions on Storage (TOS)
 - Pattern Recognition
