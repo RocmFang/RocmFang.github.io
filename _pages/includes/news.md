@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.06*: 🎉 Our paper about scalable and efficient distributed graph embedding with feedback loop manchanism has been accepted by **VLDB 2026**! Congrats to Zhenli, Ziqiang and Yibo!
 - *2026.02*: 🎉 Our paper about a unified storage engine for training-serving data management in LRM has been accepted by **SIGMOD 2026**! Congrats to Kelei and Mingming!
 - *2025.12*: ✋ I am honored to serve as a Program Committee member for **Demo track of DASFAA 2026**!
 - *2025.11*: 🎉 Our paper about high-performance and storage-efficient Key-Value separation storage engine on disaggregated storage has been accepted by **VLDB 2026**! Congrats to Jianshun and Xun!
@@ -8,11 +9,11 @@
 - *2025.08*: ✋ I am honored to serve as a Program Committee member for **ADC 2025**!
 - *2025.06*: 🎉 Our paper on the space-time tradeoffs in key-value separated LSM-trees has been accepted by **IEEE TC**! Congrats to Jianshun!
 - *2025.06*: 🎉 Our paper on the semantic-aware caching strategy for DNN Training has been accepted by **ICPP 2025**! Congrats to Zesong!
-- *2025.05*: 🎉 Our paper on the survey of social network alignment methods based on graph representation learning has been accepted by **FCS**! Congrats to Yutong and Feiyang!
-- *2025.05*: ✋ I am honored to serve as a Program Committee member for **ICDE 2026**!
-- *2025.03*: 🎉 Our paper on bosting large-scale graph embeddings with heterogeneous memory processing has been accepted by **ICDE 2025**! Congrats to co-authors!
-- *2025.03*: ✋ I am honored to serve as a Program Committee member for **LLM+Graph workshop, co-located with the VLDB 2025**!
 <!--
+*2025.05*: 🎉 Our paper on the survey of social network alignment methods based on graph representation learning has been accepted by **FCS**! Congrats to Yutong and Feiyang!
+*2025.05*: ✋ I am honored to serve as a Program Committee member for **ICDE 2026**!
+*2025.03*: 🎉 Our paper on bosting large-scale graph embeddings with heterogeneous memory processing has been accepted by **ICDE 2025**! Congrats to co-authors!
+*2025.03*: ✋ I am honored to serve as a Program Committee member for **LLM+Graph workshop, co-located with the VLDB 2025**!
 *2024.12*: 🎯 I have been supported by the **Hubei Province Postdoctoral Innovation Talent Project**!
 *2024.11*: 🎖️ My doctoral thesis titled "***Efficient and Scalable Large-Scale Graph Representation Learning***" has been nominated for the **Doctoral Dissertation Award** in CCF Information Storage Technology 2024!
 *2024.10*: ✋ I am honored to serve as a Program Committee member for **ICDE 2025 Demonstration Track**!
