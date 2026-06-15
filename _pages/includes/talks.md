@@ -1,5 +1,5 @@
 # 🌟 Talks and Presentations
-- *2025.05*, CCF Technical Committee on Information Storage, Symposium at Ant Group, **"High-Performance Heterogeneous Systems for Large-Scale AIs"**, Hangzhou, China
+- *2026.05*, CCF Technical Committee on Information Storage, Symposium at Ant Group, **"High-Performance Heterogeneous Systems for Large-Scale AIs"**, Hangzhou, China
 - *2025.12*, The 2025 CCF China Data Conference, **"Graph×AI: Graph-powered High-Performance AI Systems"**, Guiyang, China
 - *2025.05*, The 41th IEEE International Conference on Data Engineering (ICDE 2025), **"OMeGa: Boosting Large-scale Graph Embeddings with Heterogeneous Memory Processing"**, Hong Kong SAR, China
 - *2024.08*, National Postdoctoral Academic Forum on Intelligent Computing, **"Efficient and Scalable Large-scale Graph Learning Systems"**, Hangzhou, China
