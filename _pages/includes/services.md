@@ -2,9 +2,9 @@
 ## Conference Services
 - IEEE International Conference on Data Engineering (ICDE PC member for 2026, 2025 Demonstration Track, 2023 TKDE Poster Track)
 
-- International Conference on Very Large Data Bases (PVLDB PC member for 2025 LLM+Graph Workshop, 2024 LLM+KG Workshop, 2022 External Expert)
-
 - Conference of ACM Special Interest Group on Management of Data (SIGMOD PC member for 2026 & 2027 External Expert)
+
+- International Conference on Very Large Data Bases (PVLDB PC member for 2025 LLM+Graph Workshop, 2024 LLM+KG Workshop, 2022 External Expert)
 
 - International Conference on Extending Database Technology (EDBT PC member for 2026)
 
