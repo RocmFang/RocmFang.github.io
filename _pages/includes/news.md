@@ -1,5 +1,5 @@
 # 🔥 News
-- *2026.08*: 🎖️  Our project "Lightweight Indexing and Offload-Friendly Operator Techniques for High-Performance, Large-Capacity SSDs for Large Models" won the Huawei OlympusMons Pioneer Award!
+- *2026.08*: 🎖️  Our project "Lightweight Indexing and Offload-Friendly Operator Techniques for High-Performance, Large-Capacity SSDs for Large Models" won the **Huawei OlympusMons Pioneer Award**!
 - *2026.08*: ✋ I am honored to serve as a Area Chair of Program Committee member for **DASFAA 2027**!
 - *2026.08*: ✋ I am honored to serve as a Program Committee member for **WSDM 2027**!
 - *2026.08*: ✋ I am honored to serve as a Program Committee member for **ADC 2026**!
