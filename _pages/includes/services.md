@@ -8,7 +8,9 @@
 
 - International Conference on Very Large Data Bases (PVLDB PC member for 2025 LLM+Graph Workshop, 2024 LLM+KG Workshop, 2022 External Expert)
 
-- International Conference on Database Systems for Advanced Applications (DASFAA Demo Track PC member for 2026)
+- International Conference on Database Systems for Advanced Applications (DASFAA Area Chair of PC member for 2027, Demo Track PC member for 2026)
+
+- International Conference on Web Search and Data Mining (WSDM PC member for 2027)
 
 - Conference of ACM Special Interest Group on Management of Data (SIGMOD PC member for 2026 External Expert)
 
@@ -19,6 +21,7 @@
 - IEEE Transactions on Computers (TC)
 - International Journal on Very Large Databases (VLDBJ)
 - ACM Transactions on Storage (TOS)
+- IEEE Transactions on Cloud Computing (TCC)
 - Pattern Recognition
 - The Journal of Supercomputing
 

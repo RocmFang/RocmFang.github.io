@@ -1,4 +1,5 @@
 # 🎖️ Honors and Awards
+- *2026*: Huawei OlympusMons Pioneer Award
 - *2025*: Silver Award in the 3rd China Postdoctoral Innovation & Entrepreneurship Competition
 - *2025*: Best Paper Poster Award in 2025 CCF China Storage Conference
 - *2024*: Doctoral Dissertation Award Nominee in CCF Information Storage Technology
