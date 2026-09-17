@@ -1,13 +1,5 @@
 # 📝 Publications
 
-## Selected Publications
-- ***VLDB 2026*** FeLoG: Scalable and Efficient Distributed Graph Embedding with Feedback Loop Mechanism <a href="https://dl.acm.org/doi/abs/10.14778/3828612.3828633"><img src="../../images/pdf.png" alt="Article Link" width="23"></a> <a href="https://github.com/RocmFang/FeLoG"><img src="../../images/github-64.png" alt="Code Repository" width="23"></a>
-- ***SIGMOD 2026*** TokaDB: A Unified Storage Engine for Training-Serving Data Management in Large Recommendation Models <a href="https://dl.acm.org/doi/epdf/10.1145/3788853.3803078"><img src="../../images/pdf.png" alt="Article Link" width="23"></a>
-- ***VLDB 2023*** DistGER: Distributed Graph Embedding with Information-Oriented Random Walks <a href="https://vldb.org/pvldb/vol16/p1643-fang.pdf"><img src="../../images/pdf.png" alt="Article Link" width="23"></a> <a href="https://github.com/RocmFang/DistGER"><img src="../../images/github-64.png" alt="Code Repository" width="23"></a>
-- ***ICDE 2021*** HuGE: An Entropy-Driven Approach to Efficient and Scalable Graph Embeddings <a href="https://ieeexplore.ieee.org/document/9458787"><img src="../../images/pdf.png" alt="Article Link" width="23"></a> <a href="https://github.com/RocmFang/HuGE"><img src="../../images/github-64.png" alt="Code Repository" width="23"></a>
-
----
-
 ## 2026
 - **Peng Fang**, Arijit Khan, Ziqiang Wu, Zhenli Li, Yibo Zhou, Fang Wang, Dan Feng. FeLoG: Scalable and Efficient Distributed Graph Embedding with Feedback Loop Mechanism, In: Proceedings of the 52th International Conference on Very Large Data Bases, ***VLDB 2026***.
 <a href="https://dl.acm.org/doi/abs/10.14778/3828612.3828633"><img src="../../images/pdf.png" alt="Article Link" width="23"></a>
