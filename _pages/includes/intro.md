@@ -5,6 +5,6 @@ I received my Ph.D. at HUST in 2023, supervised by [Prof. Fang Wang](http://facu
 
 
 ## 🔬 Research Interest
-My research interests broadly span **System4AI**, with a particular focus on developing **high-performance AI systems on heterogeneous resources**. 
+My research interests broadly span **System4AI**, with a particular focus on developing **High-performance Infrastructure for Large-scale AIs**. 
 
 If you are interested in any form of academic cooperation, please feel free to email me at [fangpeng@hust.edu.cn](mailto:fangpeng@hust.edu.cn).
