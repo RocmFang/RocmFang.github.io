@@ -1,4 +1,5 @@
 # 🌟 Talks and Presentations
+- *2026.09*, The 52th International Conference on Very Large Data Bases (VLDB 2026), **"FeLoG: Scalable and Efficient Distributed Graph Embedding with Feedback Loop Mechanism"**, Boston, USA
 - *2026.05*, CCF Technical Committee on Information Storage, Symposium at Ant Group, **"High-Performance Heterogeneous Systems for Large-Scale AIs"**, Hangzhou, China
 - *2025.12*, The 2025 CCF China Data Conference, **"Graph×AI: Graph-powered High-Performance AI Systems"**, Guiyang, China
 - *2025.05*, The 41th IEEE International Conference on Data Engineering (ICDE 2025), **"OMeGa: Boosting Large-scale Graph Embeddings with Heterogeneous Memory Processing"**, Hong Kong SAR, China
