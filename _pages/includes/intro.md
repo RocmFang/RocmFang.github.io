@@ -5,5 +5,9 @@ I received my Ph.D. at HUST in September 2023, supervised by [Prof. Fang Wang](h
 
 
 ## 🔬 Research Interest
-My research interests include **System4AI** with a particular focus on developing **high-performance AI systems on heterogeneous resources**.
+My research interests broadly span **System4AI**, with a particular focus on developing **high-performance AI systems on heterogeneous resources**. Specific areas include:
+- **Graph Representation Learning Systems** — scalable and efficient distributed graph embedding
+- **KV Store for LLMs** — storage engines for training-serving data management in large recommendation models
+- **AI Storage Systems** — high-performance key-value separation and compute-in-memory architectures
+
 If you are interested in any form of academic cooperation, please feel free to email me at [fangpeng@hust.edu.cn](mailto:fangpeng@hust.edu.cn).

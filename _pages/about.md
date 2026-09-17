@@ -25,3 +25,7 @@ redirect_from:
 
 <span class='anchor' id='-services'></span>
 {% include_relative includes/services.md %}
+
+---
+
+*Last updated: September 2026*

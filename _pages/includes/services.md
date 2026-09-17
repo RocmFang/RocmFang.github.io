@@ -6,7 +6,7 @@
 
 - International Conference on Very Large Data Bases (PVLDB PC member for 2025 LLM+Graph Workshop, 2024 LLM+KG Workshop, 2022 External Expert)
 
-- International Conference on Database Systems for Advanced Applications (DASFAA Area Chair of PC member for 2027, Demo Track PC member for 2026)
+- International Conference on Database Systems for Advanced Applications (DASFAA Area Chair for 2027, Demo Track PC member for 2026)
 
 - International Conference on Web Search and Data Mining (WSDM PC member for 2027)
 
