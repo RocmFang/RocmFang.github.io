@@ -1,6 +1,6 @@
 ## 🙋🏻‍♂️ About Me
 
-I am currently a Postdoctoral Research Fellow at both the [Data Storage and Application Lab (DSAL)](http://stlab.wnlo.hust.edu.cn/) of [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/), under the supervision of [Prof. Dan Feng](http://faculty.hust.edu.cn/dfeng/zh_CN/index.htm), and at the [Database System](https://www.comp.nus.edu.sg/~dbsystem/) of [National University of Singapore (NUS)](https://nus.edu.sg/), where I work with [Prof. Bengchin Ooi](https://www.comp.nus.edu.sg/~ooibc/).
+I am currently a Postdoctoral Research Fellow at both the [Data Storage and Application Lab (DSAL)](http://stlab.wnlo.hust.edu.cn/) of [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/), under the supervision of [Prof. Dan Feng](http://faculty.hust.edu.cn/dfeng/zh_CN/index.htm), and at the [Database System](https://www.comp.nus.edu.sg/~dbsystem/) of [National University of Singapore (NUS)](https://nus.edu.sg/), where I work with [Prof. Bengchin Ooi](https://ooibc88.github.io/).
 I received my Ph.D. at HUST in September 2023, supervised by [Prof. Fang Wang](http://faculty.hust.edu.cn/wangfang16/zh_CN/index/1704665/list/index.htm). During my Ph.D., I was also a joint Ph.D. student at [Nanyang Technological University (NTU)](https://www.ntu.edu.sg) in Singapore, under the supervision of [Prof. Arijit Khan](https://www.cs.bgsu.edu/arijitk/index.html) and [Prof. Siqiang Luo](https://siqiangluo.com).
 
 
