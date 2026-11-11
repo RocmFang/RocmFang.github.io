@@ -28,4 +28,4 @@ redirect_from:
 
 ---
 
-*Last updated: September 2026*
+*Last updated: November 2026*
